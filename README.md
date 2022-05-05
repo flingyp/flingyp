@@ -1,4 +1,6 @@
-### Welcome To My World 👋
+<div align="center">
+  <h1>### Welcome To My World 👋</h1>
+</div>
 
 <!--
 **flingyp/flingyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flingyp&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flingyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flingyp&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flingyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
