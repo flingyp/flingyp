@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VAdmire Plus](https://github.com/flingyp/vue-admire-plus)
 
-- 🌱 I’m currently learning **Vue3|Vite|NodeJS**
+- 🌱 I’m currently learning **Vue3 | Vite | NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flingyp](https://github.com/flingyp)
 
