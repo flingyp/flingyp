@@ -21,5 +21,5 @@
 
 <div><img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flingyp&show_icons=true&locale=en&layout=compact" alt="flingyp" /></div>
 
-<div>&nbsp;<img width="300" align="right" src="https://github-readme-stats.vercel.app/api?username=flingyp&show_icons=true&locale=en" alt="flingyp" /></div>
+<div>&nbsp;<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=flingyp&show_icons=true&locale=en" alt="flingyp" /></div>
 
