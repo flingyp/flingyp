@@ -3,7 +3,9 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 <br />
 
-- 🔭 I’m currently working on [VAdmire Plus](https://github.com/flingyp/vue-admire-plus)
+- 🔭 I’m currently Computer Major Students 
+
+- ⚡At present, my open source projects include [VAdmire Plus](https://github.com/flingyp/vue-admire-plus) | [@flypeng/tool](https://github.com/flingyp/flypeng-tool)
 
 - 🌱 I’m currently learning **Vue3 | Vite | NodeJS**
 
