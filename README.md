@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 <br />
 
-- 🔭 I’m currently Computer Major Students 
+- 🔭 I am a junior majoring in computer science
 
 - ⚡At present, my open source projects include [VAdmire Plus](https://github.com/flingyp/vue-admire-plus) | [@flypeng/tool](https://github.com/flingyp/flypeng-tool)
 
