@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm FlyPeng</h1>
 
-<h3 align="center">A passionate frontend developer from China</h3>
 <br />
 
 - 🔭 I am a junior majoring in computer science
