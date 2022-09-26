@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://yyblog.top](https://yyblog.top)
 
-- 📫 How to reach me **flingyp@tom.com**
+- 📫 How to reach me **flingyp@163.com**
 
 <p align="left">
 </p>
