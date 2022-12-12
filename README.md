@@ -22,7 +22,7 @@
 - [YRoam Admin](https://github.com/flingyp/yroam-admin) - A modern background system template，rapid development | 一款现代后台系统模板，快速开发
 - [flypeng-tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods | 集成常用工具和方法的集合库
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
-- [vcom-starter](https://github.com/flingyp/vcom-starter) - Starter template of development vue component
+- [vcom-starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
 
 
