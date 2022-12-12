@@ -23,6 +23,7 @@
 - [flypeng-tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods | 集成常用工具和方法的集合库
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
 - [vcom-starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
+- [ts-starter](https://github.com/flingyp/ts-starter) - Starter template for TypeScript library
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
 
 
