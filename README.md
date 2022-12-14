@@ -25,8 +25,7 @@
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
 - [VCom Starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
 - [TypeScript Starter](https://github.com/flingyp/ts-starter) - Starter template for TypeScript library
-- [Vitepress Starter]([https://github.com/flingyp/ts-starter](https://github.com/flingyp/vitepress-starter) - Starter template for Vitepress Docs
-
+- [Vitepress Starter](https://github.com/flingyp/vitepress-starter) - Starter template for Vitepress Docs
 
 
 <h3 align="left">Languages and Tools:</h3>
