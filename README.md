@@ -24,6 +24,7 @@
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
 - [vcom-starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
 - [ts-starter](https://github.com/flingyp/ts-starter) - Starter template for TypeScript library
+- [vitepress-starter]([https://github.com/flingyp/ts-starter](https://github.com/flingyp/vitepress-starter) - Starter template for Vitepress Docs
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
 
 
