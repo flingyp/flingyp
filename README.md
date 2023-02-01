@@ -19,8 +19,9 @@
 
 <h3 align="left">Personal projects:</h3>
 
-- [YRoam Admin](https://github.com/flingyp/yroam-admin) - A modern background system template，rapid development | 一款现代后台系统模板，快速开发
-- [@flypeng/tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods | 集成常用工具和方法的集合库
+- [YRoam Admin](https://github.com/flingyp/yroam-admin) - A modern background system template，rapid development
+- [@flypeng/tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods
+- [@flypeng/eslint-config](https://github.com/flingyp/eslint-config) - Flingyp's eslint config
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
 - [VCom Starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
@@ -35,7 +36,3 @@
 <div><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flingyp&show_icons=true&locale=en&layout=compact" alt="flingyp" /></div>
 
 <div>&nbsp;<img width="410" align="left" src="https://github-readme-stats.vercel.app/api?username=flingyp&show_icons=true&locale=en" alt="flingyp" /></div>
-
-
-
-
