@@ -24,6 +24,7 @@
 - [@flypeng/eslint-config](https://github.com/flingyp/eslint-config) - Flingyp's eslint config
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
+- [Vue Starter](https://github.com/flingyp/vue-starter) - Starter template of Vue Application
 - [VCom Starter](https://github.com/flingyp/vcom-starter) - Starter template of Development Vue Component
 - [TypeScript Starter](https://github.com/flingyp/ts-starter) - Starter template for TypeScript library
 - [Vitepress Starter](https://github.com/flingyp/vitepress-starter) - Starter template for Vitepress Docs
