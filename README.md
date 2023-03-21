@@ -4,7 +4,7 @@
 
 - 🔭 I am a junior majoring in computer science
 
-- ⚡At present, my open source projects include [VAdmire Plus](https://github.com/flingyp/vue-admire-plus) | [@flypeng/tool](https://github.com/flingyp/flypeng-tool) | [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview)
+- ⚡At present, my open source projects include [VAdmire Admin](https://github.com/flingyp/vadmire-admin) | [@flypeng/tool](https://github.com/flingyp/flypeng-tool) | [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview)
 
 - 🌱 I’m currently learning **Vue3 | Vite | NodeJS**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Personal projects:</h3>
 
-- [YRoam Admin](https://github.com/flingyp/yroam-admin) - A modern background system template，rapid development
+- [VAdmire Admin](https://github.com/flingyp/vadmire-admin) - 一款基于 Vue3 + TypeScript + NaiveUI 等技术栈搭建的后台系统
 - [@flypeng/tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods
 - [@flypeng/eslint-config](https://github.com/flingyp/eslint-config) - Flingyp's eslint config
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
