@@ -9,14 +9,16 @@
 ### 🛠 Tech Stack
 
 <code><img height="20" src="https://api.iconify.design/skill-icons:vuejs-dark.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/skill-icons:vscode-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
 
 ### ⚙️ Projects
 
