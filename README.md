@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm FlyPeng
 
-- 🔭 I am a senior computer science student who is about to graduate.
 - 👨‍💻 All of my projects are available at [https://github.com/flingyp](https://github.com/flingyp)
 - 📝 I regularly write articles on [https://yyblog.top](https://yyblog.top)
 - 📫 How to reach me **flingyp@163.com**
