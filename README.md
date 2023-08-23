@@ -29,6 +29,7 @@
 - [@flypeng/tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods
 - [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview) - ⚙️⚙️⚙️ Vue component demo preview and source code show of vitepress
 - [vite-plugin-clear-console](https://github.com/flingyp/vite-plugin-clear-console) - The plugin is used to clear all console output in the production environment
+- [HotNews](https://github.com/flingyp/HotNews) - A plugin to browse hot content for platforms in VSCode
  
 #### Personal tools
   
