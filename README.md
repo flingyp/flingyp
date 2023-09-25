@@ -33,7 +33,7 @@
 #### Personal tools
 
 - [@flypeng/tool](https://github.com/flingyp/flypeng-tool) - Integrate a collection of common tools and methods 
-- [@flypeng/eslint-config](https://github.com/flingyp/eslint-config) - Flingyp's eslint config
+- [@flypeng/lint-config](https://github.com/flingyp/lint-config) - Flingyp's eslint and stylelint config
 
 #### Basic starters
   
