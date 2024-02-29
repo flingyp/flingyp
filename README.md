@@ -1,8 +1,4 @@
-### 👋 Hi, I'm FlyPeng
-
-- 👨‍💻 All of my projects are available at [https://github.com/flingyp](https://github.com/flingyp)
-- 📝 I regularly write articles on [https://yyblog.top](https://yyblog.top)
-- 📫 How to reach me **flingyp@163.com**
+## 👋 Hi, I'm FlyPeng
 
 ### 🛠 Tech Stack
 
