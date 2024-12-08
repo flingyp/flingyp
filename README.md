@@ -1,4 +1,4 @@
-## 👋 Hi, I'm FlyPeng
+## 👋 Hi, I'm flingyp
 
 ### 🛠 Tech Stack
 
