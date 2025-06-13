@@ -31,5 +31,3 @@
 - 邮箱：flingyp@163.com
 
 ---
-
-![flingyp's github stats](https://github-readme-stats.vercel.app/api?username=flingyp&show_icons=true&hide_title=true&hide_rank=true&theme=vue&hide=contribs&count_private=true)
